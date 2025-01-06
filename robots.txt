@@ -1,0 +1,3 @@
+Sitemap: https://candy-crush-gg.github.io/sitemap.xml
+User-agent: *
+Disallow:
